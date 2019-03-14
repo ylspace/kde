@@ -124,6 +124,7 @@
 "aarzilli/emacs-textobjects" 8 0 0 1 
 "aarzilli/gdlv" 533 24 1 15 
 "aaubry/YamlDotNet" 816 199 129 53 
+"aaxwaz/Humpback-whale-identification-challenge" 13 3 0 2 
 "abbeyokgo/PyOne" 381 129 20 13 
 "abbshr/abbshr.github.io" 324 34 58 62 
 "abcminiuser/python-elgato-streamdeck" 47 19 3 9 
@@ -152,6 +153,7 @@
 "aceakash/string-similarity" 1412 46 7 20 
 "AceCoooool/algs4cplusplus" 2 0 0 1 
 "AceCoooool/DSS-pytorch" 66 19 13 3 
+"acetylSv/GST-tacotron" 39 6 3 3 
 "achiku/planter" 160 6 1 5 
 "achilleasa/gopher-os" 1629 99 2 104 
 "achilleasa/names" 0 0 0 0 
@@ -189,6 +191,7 @@
 "adam900710/conky" 0 0 0 1 
 "adamaltman/1Password-to-Keepassx" 14 3 1 1 
 "AdamBien/microprofile-jakartaee-matrix" 5 1 1 2 
+"adambrewster/Defer.jl" 8 2 1 1 
 "adamdunkels/ubasic" 157 44 2 22 
 "adam-golab/react-developer-roadmap" 11530 1027 28 453 
 "adam-mcdaniel/maroon-lang" 18 2 0 1 
@@ -205,6 +208,7 @@
 "adityac94/Grad_CAM_plus_plus" 80 25 4 6 
 "aditya-grover/node2vec" 1007 477 48 54 
 "adityat/fastconsensus" 9 0 0 1 
+"adjoint-io/concurrent-timer" 1 0 1 5 
 "adjoint-io/pairing" 21 1 0 7 
 "adjust/rmq" 385 81 16 46 
 "admiraltyio/multicluster-controller" 105 3 0 6 
@@ -284,6 +288,7 @@
 "AGWA/git-crypt" 3563 239 90 93 
 "ahangchen/GDLnotes" 1373 496 7 149 
 "ahawker/ulid" 105 6 3 2 
+"Ahmed-Ali/Cucumberish" 215 42 30 21 
 "ahmedbesbes/character-based-cnn" 107 18 0 9 
 "ahmedbesbes/Neural-Network-from-scratch" 135 16 0 9 
 "ahmetb/gen-crd-api-reference-docs" 9 3 0 0 
@@ -411,6 +416,7 @@
 "alecjacobson/openvdb" 0 0 0 1 
 "alecjacobson/overlapping-project-page" 0 0 0 1 
 "alecjacobson/WindingNumber" 2 2 0 1 
+"alecthomas/entityx" 1427 236 12 141 
 "alecthomas/participle" 1284 47 6 21 
 "alecthomas/voluptuous" 1376 167 34 46 
 "aleju/imgaug" 5007 1035 106 176 
@@ -522,6 +528,8 @@
 "alibaba/Virtualview-Android" 972 104 9 43 
 "alibaba/wax" 1728 277 23 132 
 "alibaba/x-deeplearning" 2153 472 83 165 
+"alice-go/aligo" 1 0 1 2 
+"alice-go/ocdb" 1 2 0 2 
 "aliceml/aliceml" 133 10 10 12 
 "alicevision/meshroom" 1722 158 148 182 
 "alicezheng/feature-engineering-book" 437 211 4 36 
@@ -546,6 +554,7 @@
 "aliyun/loghub_consumer_library" 5 6 0 6 
 "aliyun/redis-full-check" 22 2 1 3 
 "alkemir/eGSA" 1 0 0 1 
+"all4you/redant" 173 62 1 15 
 "all4you/sentinel-tutorial" 86 25 0 9 
 "allenai/allennlp" 5296 984 149 241 
 "allenai/amti" 17 2 3 3 
@@ -563,6 +572,7 @@
 "allo-/firefox-profilemaker" 212 17 76 12 
 "AlloyTeam/eslint-config-alloy" 618 122 8 31 
 "Alluxio/alluxio" 3881 2045 40 430 
+"almandin/fuxploider" 1112 178 2 39 
 "aloctavodia/BAP" 116 31 5 15 
 "alpacahq/example-hftish" 64 10 0 8 
 "Alpacius/arachne-pl" 2 0 1 1 
@@ -792,6 +802,7 @@
 "antvis/g6" 3610 287 37 140 
 "anuragranj/back2future.pytorch" 59 0 0 5 
 "anvaka/atree" 1594 175 4 46 
+"anvaka/citations" 30 2 0 1 
 "anvaka/graph-start" 22 2 0 1 
 "anvaka/panzoom" 280 77 34 11 
 "anvaka/pm" 971 90 18 31 
@@ -831,6 +842,7 @@
 "apachecn/opencv-doc-zh" 24 6 1 6 
 "apachecn/prob140-textbook-zh" 247 68 1 52 
 "apachecn/pytorch-doc-zh" 506 219 1 26 
+"apachecn/seaborn-doc-zh" 3 0 1 4 
 "apachecn/spring-boot-doc-zh" 9 1 0 4 
 "apachecn/statsmodels_doc_zh" 33 9 1 7 
 "apachecn/weibo-bot" 10 2 0 5 
@@ -861,6 +873,7 @@
 "apache/spark" 20549 18046 441 2131 
 "apache-spark-on-k8s/spark" 530 102 166 86 
 "apache/systemml" 734 290 22 104 
+"apache/thrift" 5961 2795 9 445 
 "apas/pomodoro" 29 2 0 3 
 "apaszke/tcp-ping" 77 20 2 1 
 "apavlo/h-store" 345 140 69 58 
@@ -889,6 +902,7 @@
 "ApolloAuto/apollo" 12491 3794 431 982 
 "apollographql/graphql-syntax" 123 15 0 27 
 "apollographql/react-apollo" 4546 565 179 137 
+"ApolloZhu/Dynamic-Dark-Mode" 255 15 9 9 
 "apowers313/fido2-server-demo" 193 22 12 14 
 "appbaseio/dejavu" 5406 319 10 121 
 "appbaseio/reactivesearch" 2839 241 150 57 
@@ -1183,6 +1197,7 @@
 "aymericdamien/TensorFlow-Examples" 29132 10965 160 1938 
 "ayu-theme/ayu-colors" 141 11 6 4 
 "azadis/MC-GAN" 232 71 4 14 
+"azavea/mask-to-polygons" 5 3 0 6 
 "azawawi/perl6-inline-go" 21 1 0 3 
 "Azure/aks-engine" 174 85 137 49 
 "Azure/azure-cosmos-tla" 51 6 1 33 
@@ -1302,6 +1317,7 @@
 "bbatsov/clojure-style-guide" 3115 225 35 164 
 "bbbscarter/omnisharp-emacs" 6 0 0 2 
 "bbc/bbplot" 627 79 10 57 
+"bbc/peaks.js" 922 127 64 62 
 "bbelderbos/bbelderbos.github.io" 2 1 0 1 
 "bbengfort/memfs" 18 1 0 2 
 "bbepoch/CuteChineseTTS" 1 0 1 1 
@@ -1325,6 +1341,7 @@
 "beam-telemetry/telemetry_metrics" 23 2 0 13 
 "beardicus/awesome-plotters" 136 15 0 15 
 "bear/python-twitter" 2544 816 50 171 
+"beary/wx-ding-aes" 21 2 1 3 
 "Becavalier/Sharpen" 9 0 0 2 
 "beego/wetalk" 440 156 29 51 
 "Beep6581/RawTherapee" 743 133 615 69 
@@ -1336,6 +1353,7 @@
 "BehaviorTree/BehaviorTree.CPP" 147 35 3 16 
 "BehaviorTree/Groot" 34 8 6 9 
 "beiliao-mobile/BLStopwatch" 131 27 1 1 
+"belambert/asr-evaluation" 88 38 0 11 
 "belluzj/fantasque-sans" 4099 92 26 135 
 "belskikh/kekas" 56 2 0 5 
 "Belval/CRNN" 149 55 13 9 
@@ -1582,6 +1600,7 @@
 "bmabey/pyLDAvis" 907 218 58 50 
 "bmag/imenu-list" 144 13 10 6 
 "bmakuh/quip-mass-exporter" 15 7 4 1 
+"bminor/binutils-gdb" 104 132 0 11 
 "BMIRDS/deepslide" 64 6 0 9 
 "bmkessler/fastdiv" 48 2 0 0 
 "bmkessler/gimli" 14 0 0 1 
@@ -1716,6 +1735,7 @@
 "brendandburns/enhancements" 0 0 0 1 
 "brendandburns/ruby" 0 0 0 1 
 "brendangregg/FlameGraph" 7237 825 84 412 
+"brendangregg/perf-tools" 5201 821 36 512 
 "brendangregg/wrmsrbench" 0 0 0 0 
 "brentsimmons/JSONFeed" 739 46 71 48 
 "brentvollebregt/auto-py-to-exe" 441 78 6 36 
@@ -1753,6 +1773,7 @@
 "brillout/awesome-react-components" 16728 1189 20 609 
 "brimstone/fastcoll" 6 1 0 1 
 "briskml/brisk" 243 6 20 17 
+"brix/crypto-js" 6280 962 96 215 
 "brndnmtthws/conky" 2782 350 88 160 
 "brohrer/academic_advisory" 199 26 0 23 
 "brona/iproute2mac" 350 37 6 20 
@@ -1817,6 +1838,7 @@
 "BurntSushi/quickcheck" 990 87 38 22 
 "BurntSushi/regex-automata" 97 4 0 4 
 "BurntSushi/ripgrep" 12714 517 37 208 
+"BurntSushi/rust-cbor" 86 16 6 5 
 "BurntSushi/rust-csv" 532 78 9 11 
 "BurntSushi/xsv" 3999 130 54 89 
 "burtonator/polar-bookshelf" 2275 96 423 53 
@@ -1877,6 +1899,7 @@
 "caicloud/rudder" 13 9 2 10 
 "caijinyc/Here" 760 84 6 18 
 "cai-lw/codeforces-utils" 1 0 0 1 
+"CainKernel/CainCamera" 509 146 20 28 
 "caiorss/org-wiki" 229 18 14 17 
 "cair/fast-tsetlin-machine-in-cuda-with-imdb-demo" 20 1 0 4 
 "cair/fast-tsetlin-machine-with-mnist-demo" 43 5 1 7 
@@ -1958,6 +1981,7 @@
 "Carson-Ho/AndroidLearning" 32 9 1 4 
 "Carson-Ho/Kawaii_LoadingView" 211 39 1 5 
 "Carson-Ho/PropertyAnimator_ofObject" 15 5 0 3 
+"Carson-Ho/RxJava_Flowable" 20 11 0 2 
 "Carson-Ho/RxJavaLearningMaterial" 424 75 1 13 
 "Carson-Ho/Search_Layout" 664 133 9 17 
 "cartant/rxjs-marbles" 144 7 0 2 
@@ -2025,7 +2049,9 @@
 "certbot/certbot" 24506 2482 842 872 
 "cesanta/docker_auth" 759 188 48 46 
 "cesanta/frozen" 336 96 14 39 
+"cesanta/mjs" 1020 65 37 54 
 "cesanta/mongoose" 5140 1507 135 453 
+"cesanta/v7" 1183 145 50 94 
 "cespare/ryu" 42 2 0 1 
 "cessen/ropey" 303 5 2 10 
 "cetra3/tmq" 9 2 0 2 
@@ -2087,8 +2113,10 @@
 "chaostoolkit/chaostoolkit" 557 27 25 22 
 "chaoyuaw/pytorch-vcii" 67 7 2 1 
 "chaozh/awesome-blockchain-cn" 13206 2559 6 953 
+"charignon/github-review" 73 4 8 7 
 "charignon/greview" 28 1 3 1 
 "charlax/professional-programming" 11603 944 3 445 
+"charleshm/deep-ctr" 60 22 1 4 
 "CharlesPikachu/VideoGan" 13 1 1 2 
 "charlesq34/pointnet2" 834 315 78 49 
 "CharlesShang/DCNv2" 211 31 5 12 
@@ -2214,6 +2242,7 @@
 "christiansakai/img_combine" 0 0 0 1 
 "christoomey/vim-conflicted" 109 4 5 4 
 "ChristophBerg/pg_dirtyread" 25 3 0 6 
+"ChristopherA/Learning-Bitcoin-from-the-Command-Line" 807 214 15 80 
 "ChristopherBiscardi/gatsby-mdx" 511 63 34 13 
 "christopherobin/go-appdirs" 4 0 0 1 
 "christophershultz/StaticGIFGen" 51 7 0 0 
@@ -2266,6 +2295,7 @@
 "Cisco-Talos/ROPMEMU" 255 41 0 30 
 "Cisco-Talos/Winbox_Protocol_Dissector" 38 7 0 9 
 "CITGuru/PyInquirer" 214 16 8 8 
+"citrusCS/csgo-menu-maker" 107 9 2 7 
 "citusdata/citus" 3288 243 589 166 
 "citusdata/django-multitenant" 175 21 10 17 
 "citybound/citybound" 1684 79 120 146 
@@ -2353,6 +2383,7 @@
 "cloudwu/bgfxidl" 4 1 0 2 
 "cloudwu/datalist" 36 5 0 2 
 "cloudwu/font16xaa" 7 0 0 1 
+"cloudwu/lua-snapshot" 262 125 3 46 
 "cloudwu/sproto" 606 191 12 83 
 "cloudyuga/kubecon18-china" 13 3 0 0 
 "cloudyuga/kubecon18-eu" 155 34 0 7 
@@ -2413,6 +2444,7 @@
 "Cocoanetics/DTCoreText" 5666 1084 13 202 
 "cocodataset/cocodataset.github.io" 93 44 3 15 
 "cod3licious/autofeat" 12 0 0 2 
+"codahale/tinystat" 46 2 0 1 
 "codalab/codalab-worksheets" 122 32 64 14 
 "CodaProtocol/coda" 159 17 332 22 
 "code4craft/bigdata-learning" 1 0 0 1 
@@ -2427,6 +2459,7 @@
 "codefortulsa/courtbot-python" 2 0 0 7 
 "CodeHubApp/CodeHub" 18763 516 206 5525 
 "codelingo/codelingo" 110 31 43 9 
+"codemayq/chaotbot_corpus_Chinese" 330 96 0 15 
 "codemirror/CodeMirror" 16851 3776 299 654 
 "codenameone/CodenameOne" 830 230 259 93 
 "codenoid/kemal-mysql-blog" 5 0 0 1 
@@ -2710,6 +2743,7 @@
 "ctbarbour/swim" 34 2 0 1 
 "ctdk/goiardi" 230 30 7 14 
 "CTeX-org/lshort-cn" 121 20 3 20 
+"CTeX-org/lshort-zh-cn" 121 20 2 20 
 "ctfs/write-ups-2018" 171 39 222 29 
 "CTFTraining/CTFTraining" 33 5 0 4 
 "ctf-wiki/ctf-wiki" 1679 436 41 87 
@@ -2763,6 +2797,7 @@
 "cwen0/tidb-ctl" 0 0 0 0 
 "cwen0/tidb-tools" 0 0 0 0 
 "cwen0/transfer.sh" 0 0 0 0 
+"cwilso/AudioRecorder" 330 143 14 23 
 "cxa/ppx_bsx" 35 2 1 1 
 "cxy1997/Sentiment-Analysis-with-RNN-and-CNN" 7 5 0 3 
 "Cyan4973/Writing_Safer_C_code" 18 0 0 4 
@@ -2886,6 +2921,7 @@
 "danigargu/heap-viewer" 389 44 0 19 
 "daniilidis-group/spherical-cnn" 100 18 3 15 
 "danijar/handout" 58 3 0 1 
+"danijel3/PyHTK" 37 16 0 7 
 "danilobellini/audiolazy" 481 66 6 55 
 "danistefanovic/build-your-own-x" 42154 2758 6 1729 
 "dankogai/swift-json" 595 77 0 37 
@@ -2921,6 +2957,7 @@
 "darrenldl/reed-solomon-erasure" 19 1 6 4 
 "darrylhodgins/typescript-memoize" 33 3 9 3 
 "dart-lang/dart-vim-plugin" 281 32 3 47 
+"dart-lang/json_serializable" 235 57 26 44 
 "dart-lang/sdk" 3134 406 4355 224 
 "DarwinAwardWinner/amx" 53 4 2 5 
 "darxtrix/ptop" 464 30 14 16 
@@ -2953,6 +2990,7 @@
 "datmo/datmo" 229 16 42 10 
 "datproject/dat-secret-storage" 18 3 6 10 
 "davecheney/httpstat" 4006 197 14 95 
+"davecom/ClassicComputerScienceProblemsInPython" 76 19 2 6 
 "DaveDavenport/rofi" 3847 211 54 82 
 "dave/forky" 4 1 5 2 
 "DaveGamble/cJSON" 2459 1032 38 209 
@@ -3031,6 +3069,8 @@
 "ddysher/code-snippets" 0 0 0 1 
 "dead-horse/dir-glob" 0 0 0 1 
 "dead-horse/node-nailgun-client" 0 0 0 1 
+"deadsy/pycs" 29 5 1 7 
+"deadsy/py_linenoise" 5 1 0 1 
 "deadtrickster/beam-dashboards" 125 10 3 11 
 "deadtrickster/prometheus.ex" 232 12 5 5 
 "deanishe/alfred-workflow" 1478 109 5 41 
@@ -3072,6 +3112,7 @@
 "deepmind/interval-bound-propagation" 24 4 0 4 
 "deepmind/kapitan" 564 44 26 31 
 "deepmind/lab" 5619 1113 16 520 
+"deepmind/leo" 9 1 0 3 
 "deepmind/sonnet" 7308 1004 13 472 
 "deepmind/streetlearn" 17 5 1 5 
 "deepmipt/DeepPavlov" 2723 456 28 147 
@@ -3155,6 +3196,7 @@
 "Destiner/blocksmith" 19 7 0 3 
 "desword/pwn_execrise" 14 2 0 2 
 "DetectionTeamUCAS/RRPN_Faster-RCNN_Tensorflow" 103 32 11 6 
+"detectRecog/CCPD" 216 59 23 17 
 "devAmoghS/Machine-Learning-with-Python" 422 54 0 20 
 "devbox-hero/ansible-roles" 8 0 1 1 
 "devd/Academic-Writing-Check" 349 46 3 27 
@@ -3242,6 +3284,7 @@
 "didi/mpx" 814 59 3 40 
 "didip/tollbooth" 1092 109 11 37 
 "didi/rdebug" 390 38 4 25 
+"diegma/graph-2-text" 32 5 2 5 
 "Diego999/py-rouge" 19 7 1 2 
 "diegoalejogm/gans" 439 119 4 20 
 "DiegoVicen/my-emacs" 14 2 0 3 
@@ -3249,6 +3292,7 @@
 "diffbot/diffbot-python-client" 52 27 1 12 
 "diffbot/open-source-search-engine" 14 5 0 8 
 "Diggsey/aoc2018" 46 2 0 1 
+"digikey/digikey-kicad-library" 591 91 9 81 
 "digitalocean/databases" 28 1 0 19 
 "digitalocean/digitalocean-cloud-controller-manager" 249 42 24 118 
 "digitalocean/go-libvirt" 326 41 2 35 
@@ -3376,6 +3420,7 @@
 "doegox/python-cryptoplus" 48 33 4 9 
 "dohkoos/antlr4-short-course" 38 21 3 5 
 "doiken23/pytorch_toolbox" 5 1 0 1 
+"doitsujin/dxvk" 3420 153 76 213 
 "dokan-dev/dokany" 2589 350 110 193 
 "dollarshaveclub/cloudworker" 208 6 6 14 
 "dom96/nimkernel" 341 26 1 20 
@@ -3796,6 +3841,7 @@
 "emesik/monero-python" 71 27 4 10 
 "emicklei/dot" 55 4 0 1 
 "emilbaehr/automatic-app-landing-page" 228 37 2 2 
+"emil-e/rapidcheck" 510 87 73 32 
 "emilwallner/Screenshot-to-code" 11180 1070 3 540 
 "emilwallner/Screenshot-to-code" 11242 1073 1 543 
 "emily-vo/hazumu" 21 0 0 1 
@@ -3900,6 +3946,7 @@
 "erincatto/box2d-lite" 125 7 0 5 
 "erkin/ponysay" 792 57 55 37 
 "erleans/erleans" 179 12 9 28 
+"ermakovpetr/tg_tqdm" 58 1 3 2 
 "erm/mangum" 26 0 8 1 
 "ermongroup/streamline-vi-csp" 7 2 0 5 
 "erning/gorun" 507 47 3 37 
@@ -4055,6 +4102,7 @@
 "facebook/Docusaurus" 10643 853 90 170 
 "facebook/duckling" 2143 341 48 73 
 "facebookexperimental/MIRAI" 61 4 8 19 
+"facebook/FAI-PEP" 145 32 8 22 
 "facebook/fb.resnet.torch" 1682 567 62 116 
 "facebook/fishhook" 2819 453 17 177 
 "facebook/flipper" 4866 242 54 102 
@@ -4067,6 +4115,7 @@
 "facebookincubator/idx" 1289 48 1 12 
 "facebookincubator/magma" 122 10 2 17 
 "facebookincubator/OnlineSchemaChange" 651 100 10 62 
+"facebookincubator/oomd" 894 63 9 46 
 "facebookincubator/profilo" 597 51 1 26 
 "facebookincubator/ptr" 81 3 8 11 
 "facebookincubator/python-nubia" 1062 45 9 47 
@@ -4155,6 +4204,7 @@
 "FangHeXie/web" 1 0 0 1 
 "fanglanting/RA-retrofit" 15 2 0 2 
 "fangpeishi/ngxfmt" 51 18 0 6 
+"Fangyh09/pytorch-receptive-field" 19 1 0 1 
 "fanruan/intelli-swift-core" 8 3 0 4 
 "fanshuangstrive/payment_system" 8 2 0 1 
 "FantasyInternet/poetry" 35 0 3 3 
@@ -4241,6 +4291,7 @@
 "feiwang3311/Lantern" 92 10 8 11 
 "feixiao/Distributed-Systems" 1010 314 0 81 
 "felangel/bloc" 622 80 0 30 
+"felipenoris/XLSX.jl" 61 11 11 8 
 "felixgwu/pytorch-conv4d" 3 0 0 2 
 "felixonmars/dnsmasq-china-list" 2502 434 5 185 
 "felixr/docker-zsh-completion" 245 34 2 11 
@@ -4318,6 +4369,7 @@
 "Findow-team/Blog" 274 30 7 40 
 "finlay-liu/BuaaMasterQuestion" 27 7 0 2 
 "finnhvman/matter" 475 28 2 15 
+"Fire30/PS4-2014-1303-POC" 37 14 0 9 
 "firebase/firebase-ios-sdk" 1041 224 103 120 
 "firecracker-microvm/firecracker" 7297 414 148 234 
 "firecracker-microvm/firecracker-containerd" 494 25 36 40 
@@ -4379,6 +4431,7 @@
 "flitbit/diff" 1986 165 27 37 
 "flix/flix" 296 30 106 18 
 "flode/ARTSynchronized" 22 12 2 3 
+"Floobits/floobits-neovim" 135 3 20 8 
 "Floobits/floobits-vim" 227 9 20 10 
 "floodsung/LearningToCompare_FSL" 401 102 8 21 
 "floodsung/Lifelong-Learning-Paper-List" 86 7 1 6 
@@ -4747,6 +4800,7 @@
 "geerlingguy/ansible-role-docker" 367 236 49 17 
 "geerlingguy/ansible-role-mysql" 601 488 82 56 
 "Gekkio/imgui-rs" 529 93 37 21 
+"gemini-testing/gemini" 1446 162 118 38 
 "genedelisa/SwiftSimpleGraph" 46 8 0 3 
 "genekogan/progressive_growing_of_gans" 20 2 0 4 
 "geneontology/obographs" 23 9 27 10 
@@ -4898,6 +4952,7 @@
 "gitprzemek/avengers-memory-card" 2 0 0 0 
 "GitSquared/edex-ui" 8057 414 4 175 
 "git-tips/tips" 14633 1264 15 562 
+"givip/Telegrammer" 80 5 8 4 
 "GJDuck/EffectiveSan" 45 4 1 8 
 "GJDuck/LowFat" 104 11 1 9 
 "gjtorikian/coremotion-test" 0 0 0 1 
@@ -4931,6 +4986,7 @@
 "gluster/gogfapi" 29 17 5 5 
 "glynastill/plprofiler" 4 0 0 3 
 "gmarull/pyqt-boilerplate" 129 11 0 6 
+"gmcabrita/bloomex" 63 4 0 4 
 "GMG-Special-Projects-Desk/GoodbyeBigFive" 19 4 0 2 
 "gnab/remark" 8983 716 162 220 
 "gnawux/community" 0 0 0 0 
@@ -5003,6 +5059,7 @@
 "golang/net" 1633 636 5 144 
 "golang/proposal" 1334 154 1 226 
 "golang/protobuf" 4051 867 69 181 
+"golang/snappy" 721 105 6 36 
 "golang-standards/project-layout" 5638 477 14 195 
 "golang/sys" 472 236 1 75 
 "golang/time" 121 40 1 17 
@@ -5138,6 +5195,7 @@
 "google/mtail" 1708 186 14 70 
 "google/mundane" 343 11 9 14 
 "google/mysql-ripple" 135 7 4 8 
+"google/netstack" 2508 192 8 157 
 "google/ngx_brotli" 904 87 20 67 
 "google/nsync" 81 38 0 9 
 "google/oauth2l" 149 29 7 19 
@@ -5146,6 +5204,7 @@
 "google/oss-fuzz" 3716 654 112 215 
 "google/periph" 1216 115 49 57 
 "googleprojectzero/CompareCoverage" 85 6 0 8 
+"googleprojectzero/domato" 942 195 0 58 
 "googleprojectzero/functionsimsearch" 337 57 11 37 
 "googleprojectzero/p0tools" 210 31 0 30 
 "googleprojectzero/reil" 26 2 0 11 
@@ -5259,6 +5318,7 @@
 "gphalkes/tilde" 24 2 9 3 
 "gphoto/libgphoto2" 373 143 164 46 
 "gpoore/codebraid" 37 0 2 2 
+"gpoore/minted" 1040 90 48 23 
 "gpujs/gpu.js" 7359 351 84 204 
 "GPUOpen-Drivers/AMDVLK" 613 37 32 72 
 "GPUOpen-Effects/TressFX" 295 62 30 61 
@@ -5275,6 +5335,7 @@
 "graknlabs/client-python" 20 2 4 6 
 "grandecola/bigqueue" 5 2 11 2 
 "grandemk/qemu_devices" 18 4 0 4 
+"grandideastudio/jtagulator" 199 44 1 37 
 "grant-h/ctf" 3 2 0 3 
 "grantjenks/python-pattern-matching" 104 8 9 4 
 "grantsrb/PyTorch-A2C" 5 2 0 3 
@@ -5577,6 +5638,7 @@
 "hardenedlinux/Debian-GNU-Linux-Profiles" 111 32 2 21 
 "hardenedlinux/harbian-qa" 12 5 0 4 
 "hardenedlinux/offensive_poc" 111 51 0 30 
+"hardmaru/kanji2kanji" 12 2 0 1 
 "hardmaru/presentations" 40 0 0 2 
 "hardmaru/WorldModelsExperiments" 236 58 5 8 
 "harelba/q" 6799 308 63 178 
@@ -5944,6 +6006,7 @@
 "huntergregal/mimipenguin" 2338 464 10 138 
 "hunterhug/marmot" 181 84 1 21 
 "huolizhuminh/NetWorkPacketCapture" 481 111 15 32 
+"huonw/huonw.github.io" 1 0 1 2 
 "huoyijie/AdvancedEAST" 498 178 24 37 
 "huri000/SwiftEntryKit" 2906 171 7 50 
 "huseinzol05/Gather-Tensorflow-Serving" 165 39 0 10 
@@ -6123,6 +6186,7 @@
 "ihac/pouch" 0 0 0 1 
 "ihpdep/LDES" 36 12 4 5 
 "ihrwein/backoff" 56 2 0 3 
+"iHTCboy/iOS-private-api-checker" 9 1 0 1 
 "IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/flamebearer" 0 0 0 0 
 "IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp" 997 134 16 43 
 "iikira/BaiduPCS-Go" 11334 1525 89 494 
@@ -6481,6 +6545,7 @@
 "JanDeDobbeleer/oh-my-posh" 971 87 13 25 
 "jandrewrogers/AquaHash" 14 1 0 2 
 "janesjanes/Pytorch-TextureGAN" 46 6 3 4 
+"janestreet/ppx_optcomp" 22 6 2 8 
 "janestreet/ppx_typerep_conv" 1 0 1 8 
 "janestreet/zstandard" 6 0 0 11 
 "janet-lang/janet" 306 10 1 13 
@@ -6488,6 +6553,7 @@
 "janet-lang/sqlite3" 0 0 0 1 
 "janet-lang/vscode-janet" 1 0 0 2 
 "janet-lang/webview" 1 1 0 1 
+"Janghyun1230/Speaker_Verification" 72 27 5 10 
 "jangirrishabh/Overcoming-exploration-from-demos" 51 15 1 3 
 "JanGorman/Agrume" 299 71 14 10 
 "JaniceZhao/Chinese-Forum-Corpus" 10 2 0 2 
@@ -6800,6 +6866,7 @@
 "jiqizhixin/ML-Tutorial-Experiment" 1861 603 6 177 
 "jirufeng/Micro8" 0 0 0 1 
 "jirufeng/roputils" 0 0 0 1 
+"jitsi/asr-wer" 12 7 0 13 
 "jitsi/jitsi-meet" 3415 1137 97 255 
 "jivoi/awesome-ml-for-cybersecurity" 2594 775 5 291 
 "jiwoon-ahn/psa" 74 13 7 4 
@@ -7200,6 +7267,7 @@
 "k82cn/soc" 0 0 0 1 
 "k88hudson/git-flight-rules" 29248 1931 11 636 
 "k8gege/K8tools" 289 122 1 18 
+"k8spatterns/examples" 75 8 5 8 
 "k9mail/k-9" 4247 1972 898 341 
 "Kaarel94/Ozobot-Python" 13 4 0 2 
 "kachayev/fn.py" 2777 172 24 141 
@@ -7264,6 +7332,7 @@
 "karelzak/util-linux" 670 428 51 73 
 "karlhorky/awesome-speakers" 647 150 1 19 
 "karlicoss/grasp" 19 1 2 1 
+"karlseguin/ccache" 376 54 5 14 
 "karlstav/cava" 1172 99 22 41 
 "kars7e/build-pipeline" 0 0 0 1 
 "kars7e/cluster-api-provider-vsphere" 0 0 0 1 
@@ -7272,6 +7341,7 @@
 "kars7e/tinker-cluster" 5 1 0 1 
 "karthikv/purview" 142 5 0 5 
 "kasicass/blog" 13 3 1 6 
+"KasperskyLab/VBscriptInternals" 48 18 0 6 
 "kata-containers/agent" 164 64 39 47 
 "kata-containers/community" 180 29 9 48 
 "kata-containers/packaging" 22 33 69 21 
@@ -7352,6 +7422,7 @@
 "kennethreitz/grequests" 2903 280 18 104 
 "kennethreitz/pipenv-buildpack" 12 0 0 1 
 "kennethreitz/pytheory" 1034 50 2 90 
+"kennethreitz/requests" 37623 6846 174 1433 
 "kennethreitz/responder" 2857 174 36 122 
 "kennethreitz/saythanks.io" 877 84 18 35 
 "kennethreitz/talks" 46 3 1 0 
@@ -7388,6 +7459,7 @@
 "kevinbird61/p4-researching" 30 4 0 1 
 "kevinburke/nacl" 440 19 1 13 
 "Kevin-fqh/learning-k8s-source-code" 89 39 3 11 
+"Kevin-Robertson/Powermad" 225 47 2 21 
 "kevinschaich/mintable" 452 17 6 11 
 "kevin-ssy/FishNet" 288 24 0 20 
 "kevin-wangzefeng/enhancements" 0 0 0 1 
@@ -7529,6 +7601,7 @@
 "kojino/120-Data-Science-Interview-Questions" 492 265 0 27 
 "kokjo/cfgtool" 3 0 0 1 
 "kokke/hungergames" 0 0 0 1 
+"kolber/audiojs" 1953 429 107 89 
 "komar007/gh60" 399 75 2 43 
 "komeiji-satori/Dress" 6680 884 26 267 
 "konchunas/pyrs" 72 2 2 4 
@@ -7555,6 +7628,7 @@
 "Kotlin/kotlinx.html" 588 60 36 41 
 "Kotlin/kotlinx.serialization" 1138 82 127 78 
 "koudelka/honeydew" 382 29 7 12 
+"koustuvsinha/clutrr" 19 1 1 2 
 "koute/cargo-web" 643 44 51 21 
 "koute/stdweb" 2366 123 79 76 
 "kovidgoyal/kitty" 5930 262 15 136 
@@ -7656,6 +7730,7 @@
 "kubernetes/node-problem-detector" 503 146 13 35 
 "kubernetes/perf-tests" 172 99 27 24 
 "kubernetes/sample-apiserver" 122 68 4 47 
+"kubernetes/sample-controller" 543 227 7 56 
 "kubernetes/sig-release" 92 97 43 60 
 "kubernetes-sigs/aws-alb-ingress-controller" 836 291 66 80 
 "kubernetes-sigs/aws-iam-authenticator" 948 133 62 35 
@@ -7682,6 +7757,7 @@
 "kubevirt/ovs-cni" 13 12 5 6 
 "kubic-project/salt" 59 35 19 35 
 "kubo/rust-oracle" 36 8 1 10 
+"kubo/snzip" 149 23 3 7 
 "kudelskisecurity/scannerl" 175 38 0 16 
 "kudobuilder/kudo" 113 7 43 8 
 "kudos-dude/react-best-practices" 365 18 0 15 
@@ -7689,6 +7765,7 @@
 "kujian/frontendDaily" 602 52 313 223 
 "KuldeepSinh/lc3_vm" 17 0 0 1 
 "kuleshov/cs228-material" 748 1108 8 60 
+"kulshekhar/ts-jest" 1976 184 39 27 
 "kumarshantanu/lein-localrepo" 205 13 1 8 
 "kumar-shridhar/Master-Thesis-BayesianCNN" 94 21 0 2 
 "kumar-shridhar/PyTorch-BayesianCNN" 192 31 1 13 
@@ -7725,6 +7802,7 @@
 "kyren/luster" 126 8 0 22 
 "kyren/rlua" 496 32 21 25 
 "KyriacosShiarli/taco" 11 3 0 3 
+"kythe/kythe" 1153 147 184 80 
 "Kyubyong/bert_ner" 48 2 0 2 
 "Kyubyong/bert-token-embeddings" 55 10 1 1 
 "Kyubyong/deepvoice3" 327 78 17 49 
@@ -7778,6 +7856,7 @@
 "lanoox/lanoox.github.io" 1 0 0 1 
 "lanpa/tensorboardX" 4188 431 42 74 
 "LantaoYu/MARL-Papers" 1033 212 0 152 
+"Lantmateriet/Example-consuming-WMTS" 20 7 1 9 
 "laobubu/HyperMD" 683 51 13 21 
 "Lapis-Hong/wide_deep" 76 38 3 6 
 "laradock/laradock" 7063 2309 431 283 
@@ -7820,6 +7899,7 @@
 "layumi/Person_reID_baseline_pytorch" 874 279 11 51 
 "layumi/Vehicle_reID-Collection" 27 1 0 2 
 "LazarSoft/jsqrcode" 2949 930 75 195 
+"lazerwalker/GroundKontrol" 1 0 12 0 
 "lazerwalker/tracery-dot-app" 7 0 12 1 
 "lazyparser/minimalist-team-leader" 16 2 0 4 
 "lazyparser/talks" 4 3 0 2 
@@ -7990,6 +8070,7 @@
 "lichuang/fatuv" 0 0 0 1 
 "lichuang/libevent" 0 0 0 1 
 "lichuang/libserverkit" 0 0 0 2 
+"lidel/linux-on-huawei-matebook-x-2017" 54 2 3 14 
 "lief-project/LIEF" 1185 172 46 82 
 "lietoumai/Awesome-offer" 794 108 52 59 
 "lieuwex/whapp-irc" 175 10 23 4 
@@ -8044,6 +8125,7 @@
 "linboqiao/SICS" 1 1 0 1 
 "linchangting/PaperList" 12 4 0 1 
 "linclin/docker-alpine-nginx-processmaker" 1 0 0 1 
+"lindbrook/cholera" 94 4 0 6 
 "lindig/polly" 5 0 0 1 
 "linebender/kurbo" 64 2 3 11 
 "linebender/piet" 105 4 14 25 
@@ -8286,6 +8368,7 @@
 "lucasassislar/nucleuscoop" 317 45 92 63 
 "lucas-clemente/quic-go" 2368 262 81 136 
 "lucasdiedrich/ojs" 7 7 2 1 
+"lucasfcosta/dotfiles" 118 13 10 10 
 "lucasg/Dependencies" 986 74 8 50 
 "lucasg/idamagnum" 38 3 0 3 
 "lucesape/weblate-test" 0 0 0 0 
@@ -8474,6 +8557,7 @@
 "Maktm/FLIRTDB" 479 78 0 65 
 "Malabarba/aggressive-indent-mode" 477 18 14 16 
 "Malabarba/fancy-narrow" 102 3 8 4 
+"Malabarba/paradox" 464 29 20 12 
 "malcommac/SwiftRichString" 1971 120 1 51 
 "malcomvetter/DnsCache" 27 2 0 3 
 "malllabiisc/HyTE" 46 13 0 7 
@@ -8488,6 +8572,7 @@
 "manateelazycat/awesome-tab" 76 11 2 10 
 "mana-ysh/knowledge-graph-embeddings" 160 46 3 18 
 "mandeep/cookiecutter-pyqt5" 30 6 1 3 
+"MandyMo/HAMR" 32 5 1 6 
 "MandyMo/pytorch_HMR" 161 28 0 15 
 "manifoldai/merf" 72 16 15 6 
 "manishrjain/into-ledger" 61 6 9 5 
@@ -8529,6 +8614,7 @@
 "marco-lancini/goscan" 247 36 2 16 
 "marcoonroad/hieroglyphs" 6 0 4 0 
 "marcosgriselli/EasyTransitions" 994 54 5 30 
+"marcosgriselli/SwipeableTabBarController" 528 46 4 15 
 "marcusklaas/sortedvec" 8 0 2 1 
 "marcusklasson/GroceryStoreDataset" 55 11 0 6 
 "mardix/active-alchemy" 59 4 5 8 
@@ -8560,6 +8646,7 @@
 "markusschanta/awesome-jupyter" 765 108 3 61 
 "markyun/My-blog" 9631 2838 36 877 
 "markzhai/blog-comment" 0 0 0 1 
+"markziemann/dee2" 10 2 5 1 
 "marl/minispec" 10 1 0 6 
 "marmelab/gremlins.js" 8077 374 39 185 
 "marmelab/json-graphql-server" 620 55 9 28 
@@ -8717,6 +8804,7 @@
 "maximilianigl/DVRL" 35 8 0 5 
 "maximiliense/GLC19" 2 2 0 2 
 "maxjiang93/DDSL" 11 1 0 2 
+"maxmcd/wasabi" 44 3 2 4 
 "maxmcd/webtty" 1929 83 5 39 
 "maxsokolov/TableKit" 411 47 8 14 
 "maxwellito/vivus" 11443 954 5 287 
@@ -8727,6 +8815,7 @@
 "mazzzystar/randomCNN-voice-transfer" 52 9 1 5 
 "mbadry1/DeepLearning.ai-Summary" 2096 1100 2 118 
 "mbasso/awesome-wasm" 3122 161 3 171 
+"mbbill/undotree" 1077 49 5 22 
 "mbforbes/py-factorgraph" 59 15 0 4 
 "mbhuta/CoreAudio" 0 0 0 1 
 "mbinary/USTC-CS-Courses-Resource" 659 159 3 41 
@@ -8924,6 +9013,7 @@
 "Micropoor/Micro8" 669 257 2 41 
 "micropython/micropython" 7997 2298 713 735 
 "microservices-demo/microservices-demo" 1494 758 65 115 
+"Microsoft/ai-edu" 228 62 0 37 
 "Microsoft/ailab" 4640 735 41 356 
 "Microsoft/AirSim" 6985 1838 360 499 
 "Microsoft/AMBROSIA" 239 19 9 32 
@@ -9170,6 +9260,7 @@
 "mks0601/Integral-Human-Pose-Regression-for-3D-Human-Pose-Estimation" 36 0 3 6 
 "mks0601/TF-SimpleHumanPose" 53 9 0 8 
 "mkur/nlopt-ocaml" 4 1 2 2 
+"ml874/Data-Science-Cheatsheet" 726 192 1 72 
 "m-labs/misoc" 169 50 28 40 
 "m-labs/nmigen" 67 8 13 20 
 "m-labs/smoltcp" 704 57 30 42 
@@ -9321,12 +9412,14 @@
 "mozillazg/pinyin-data" 222 49 7 13 
 "mozillazg/python-pinyin" 1674 277 19 65 
 "moznion/aws-lambda-perl5-layer" 24 1 0 6 
+"mozqnet/go-exploitdb" 18 12 8 3 
 "mozy/mordor" 290 53 12 25 
 "mp911de/microbenchmark-runner" 36 5 1 4 
 "mpaland/printf" 237 30 3 20 
 "mpangburn/Expressions" 388 19 1 11 
 "mpapp/MPSheetView" 42 3 0 8 
 "mpc-hc/mpc-hc" 2351 759 16 325 
+"mpdeimos/gnome-shell-remove-dropdown-arrows" 32 8 1 2 
 "mpgn/CVE-2019-0192" 69 13 0 2 
 "mpgn/CVE-2019-7238" 28 5 0 1 
 "mplewis/csvtomd" 480 57 1 14 
@@ -9393,6 +9486,7 @@
 "mstorsjo/llvm-mingw" 67 9 5 11 
 "msys2/msys2" 1114 93 74 89 
 "mtak-/swym" 54 0 1 5 
+"mtdvio/every-programmer-should-know" 36911 3365 27 1664 
 "mthbernardes/GTRS" 491 81 0 15 
 "mthbernardes/QMKhuehuebr" 61 21 0 4 
 "mthenw/awesome-layers" 435 37 4 33 
@@ -9524,6 +9618,7 @@
 "named-data/ChronoSync" 22 13 3 9 
 "nameko/nameko" 2607 263 39 143 
 "namhyung/uftrace" 1126 161 101 79 
+"namisan/mt-dnn" 24 4 2 7 
 "namjaejeon/cifsd" 37 18 2 12 
 "NanoAdblocker/NanoCore2" 49 5 0 6 
 "nanoleaf/aurora-sdk-linux" 12 3 0 4 
@@ -9544,6 +9639,7 @@
 "nasyxx/xmas.py" 13 2 0 2 
 "natasha/razdel" 26 2 2 5 
 "natefinch/lumberjack" 1162 156 21 38 
+"nathancahill/split" 3775 297 27 89 
 "nathancday/min_night" 8 7 0 3 
 "NathanielRose/NateRoseWebsite" 1 0 0 1 
 "nathanmarz/cascalog" 1346 178 40 82 
@@ -9589,6 +9685,7 @@
 "ndabAP/vue-go-example" 609 32 3 10 
 "ndandoulakis/ndTorrent" 6 1 0 3 
 "ndeloof/jenkinsfile-runner-go" 1 0 0 1 
+"ndmitchell/ghcid" 597 59 51 17 
 "ndmitchell/ghc-lib" 3 0 0 2 
 "ndmitchell/haskell-src-exts-util" 0 0 0 1 
 "ndmitchell/stack" 0 0 0 1 
@@ -9708,6 +9805,7 @@
 "nghttp2/nghttp2" 2757 511 354 181 
 "nginxinc/kubernetes-ingress" 1331 518 31 77 
 "nginx/nginx" 7992 3026 0 824 
+"nginx/nginx-tests" 32 19 0 14 
 "nginx/unit" 1909 128 76 132 
 "ngosang/trackerslist" 7723 1092 2 613 
 "ngrok/tableroll" 9 2 1 2 
@@ -9739,6 +9837,7 @@
 "nickgravgaard/windowlab" 31 3 1 8 
 "nicklhy/cnn_loss_surface" 7 1 0 1 
 "nicklockwood/Euclid" 137 3 1 3 
+"nicklockwood/Expression" 477 18 2 10 
 "nicklockwood/layout" 1946 86 28 46 
 "nicklockwood/SwiftFormat" 2683 164 42 66 
 "nickslevine/zebras" 83 4 5 7 
@@ -9826,6 +9925,7 @@
 "nndl/nndl.github.io" 1703 450 46 226 
 "nneonneo/sha1collider" 294 53 1 16 
 "nnja/new-computer" 314 43 0 7 
+"no0be/DNSlivery" 135 23 2 9 
 "noahgolmant/skeletor" 43 3 7 3 
 "noble/noble" 2428 561 177 121 
 "nobrainr/typescript-webpack-starter" 242 40 5 9 
@@ -9868,6 +9968,7 @@
 "NordicSemiconductor/pc-nrfconnect-ble" 32 11 2 17 
 "NordicSemiconductor/pc-nrfutil" 123 86 21 36 
 "norlab/unpaywall" 1 1 0 2 
+"nornagon/saxi" 41 2 7 3 
 "norvig/pytudes" 11784 1351 4 604 
 "nosarthur/gita" 456 11 3 6 
 "nosir/cleave.js" 11644 923 53 186 
@@ -9901,6 +10002,7 @@
 "nrontsis/PILCO" 51 17 8 8 
 "ns3-plc-module/plc" 9 13 7 9 
 "nsacyber/Hardware-and-Firmware-Security-Guidance" 148 25 2 26 
+"nschloe/meshio" 225 70 16 19 
 "nschum/SwiftCGRectExtensions" 114 28 4 8 
 "nsc/SwiftTLS" 136 2 7 6 
 "nsf/termbox" 1419 108 16 78 
@@ -10017,6 +10119,7 @@ null null null null null
 "OAID/Caffe-HRT" 256 106 21 46 
 "OAI/OpenAPI-Specification" 12893 4417 457 767 
 "oakes/full-stack-clj-example" 27 0 0 2 
+"OALabs/frida-extract" 71 17 1 15 
 "OanaMariaCamburu/e-SNLI" 28 0 1 13 
 "oauthinaction/oauth-in-action-code" 173 128 8 35 
 "OAuthSwift/OAuthSwift" 2243 395 10 85 
@@ -10106,6 +10209,7 @@ null null null null null
 "omichel/webots" 201 59 23 15 
 "Omkar-Ajnadkar/Hello-World" 390 1793 1840 11 
 "OmniSharp/omnisharp-emacs" 405 84 49 29 
+"omniti-labs/jsend" 47 9 0 5 
 "omniti-labs/pgtreats" 71 33 2 33 
 "Omnition/synthetic-load-generator" 6 1 0 5 
 "omni-viral/rendy" 219 27 9 31 
@@ -10160,10 +10264,13 @@ null null null null null
 "open-app/bazaar-bot" 0 0 0 3 
 "open-app/bazaar-graphql" 0 0 0 3 
 "openatx/facebook-wda" 710 114 15 39 
+"opencollective/opencollective" 558 67 212 44 
 "opencontainers/runc" 5510 994 223 382 
 "opencv/cvat" 1235 245 64 76 
 "opencv/opencv" 31727 22709 1617 2394 
 "opendatasoft/ontology-mapping-chatbot" 4 1 0 17 
+"opendata-stuttgart/feinstaub-api" 38 20 7 17 
+"opendata-stuttgart/feinstaub-map" 152 43 35 33 
 "opendata-stuttgart/sensors-software" 253 170 99 59 
 "opendistro-for-elasticsearch/alerting" 35 0 4 6 
 "opendistro-for-elasticsearch/security" 75 7 5 9 
@@ -10219,12 +10326,14 @@ null null null null null
 "openshift/openshift-ansible" 1445 1845 840 156 
 "openshift/openshift-ansible-contrib" 246 355 138 61 
 "openshift/origin" 5786 3367 568 575 
+"openshift/origin-branding" 0 1 0 5 
 "openshift/prometheus-operator" 4 2 1 15 
 "openshift/router" 8 8 6 4 
 "OpenSourceBrain/IzhikevichModel" 12 9 4 6 
 "open-source-flash/open-source-flash" 7003 106 20 132 
 "open-source-parsers/jsoncpp" 3428 1402 84 311 
 "opensourcesec/CIRTKit" 82 11 0 12 
+"openspug/spug" 231 72 3 11 
 "openssh/openssh-portable" 634 508 32 95 
 "openssl/openssl" 9411 4203 698 829 
 "openstack/ironic-python-agent" 90 75 0 15 
@@ -10306,6 +10415,7 @@ null null null null null
 "ostera/cactus" 41 0 4 3 
 "ostera/httpkit" 129 5 5 8 
 "ostera/reactor" 30 2 2 6 
+"ostera/reason-design-patterns" 184 6 0 20 
 "osxfuse/osxfuse" 4834 304 102 231 
 "otfrom/otfrom-org-emacs" 35 7 0 1 
 "otkupjnoz/oc-cnn" 9 3 0 5 
@@ -10345,6 +10455,7 @@ null null null null null
 "oxuva/long-term-tracking-benchmark" 123 33 2 12 
 "oxwhirl/pymarl" 97 15 0 12 
 "oxwhirl/smac" 66 8 0 6 
+"oyyd/youdao-collins-chrome-extension" 73 11 19 5 
 "p1c2u/openapi-core" 32 25 27 4 
 "P3GLEG/Whaler" 481 20 2 17 
 "p3pperp0tts/leaks_parser" 55 7 1 2 
@@ -10368,6 +10479,7 @@ null null null null null
 "Pagedraw/pagedraw" 992 87 3 32 
 "PagerDuty/incident-response-docs" 640 129 3 56 
 "PagerDuty/security-training" 208 53 1 20 
+"pagespeed-io/stripe-webhook-receiver" 6 1 0 2 
 "pagnihotry/PHP-Lambda-Runtime" 4 2 0 1 
 "paintception/Deep-Quality-Value-DQV-Learning-" 23 2 0 3 
 "painty/CSS-Used-ChromeExt" 59 14 5 5 
@@ -10378,6 +10490,7 @@ null null null null null
 "palladin/Higher" 121 21 4 18 
 "pallene-lang/pallene" 77 1 11 8 
 "pallets/click" 7057 673 198 185 
+"pallets/flask" 42567 12045 50 2255 
 "pallets/jinja" 5855 1121 149 262 
 "palmskog/bitoychain" 2 0 0 2 
 "PaloAltoNetworks/minemeld" 201 30 22 63 
@@ -10385,6 +10498,7 @@ null null null null null
 "palvaro/molly" 93 20 4 14 
 "panda-re/lava" 131 18 7 17 
 "pandas-dev/pandas" 18120 7227 2923 975 
+"pando-project/jerryscript" 3482 407 60 170 
 "pangwong/pytorch-multi-label-classifier" 66 17 2 4 
 "panjf2000/ants" 1247 160 1 51 
 "PanJiaChen/vue-admin-template" 4705 1715 53 239 
@@ -10455,6 +10569,7 @@ null null null null null
 "pawl/awesome-etl" 1471 153 7 121 
 "payatu/CVE-2018-14442" 51 14 0 5 
 "paypal/InnerSourcePatterns" 197 49 25 47 
+"Payum/Payum" 1385 258 53 68 
 "pbiecek/xai_resources" 54 7 0 6 
 "pcgreat/zi2zi" 13 4 0 5 
 "p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch" 378 60 6 20 
@@ -10513,6 +10628,7 @@ null null null null null
 "petergardfjall/emacs-immaterial-theme" 5 1 0 1 
 "peterhinch/micropython-radio" 11 3 1 2 
 "peterh/liner" 533 70 4 22 
+"peterhoeg/vim-qml" 92 15 0 5 
 "peter-iakovlev/Telegram-iOS" 304 75 18 18 
 "peterlamar/vue-examples" 201 15 1 1 
 "PeterLemon/N64" 137 27 5 26 
@@ -10582,6 +10698,7 @@ null null null null null
 "philipperemy/tensorflow-1.4-billion-password-analysis" 1124 247 2 80 
 "philipperemy/tensorflow-class-activation-mapping" 96 33 1 6 
 "philips/osv-results-reporter" 0 0 0 0 
+"philipwalton/solved-by-flexbox" 11607 958 20 423 
 "phillui-37/KaguyaRs" 12 1 0 2 
 "phil-opp/blog_os" 2565 227 41 151 
 "philpearl/stringbank" 31 1 0 1 
@@ -10661,11 +10778,13 @@ null null null null null
 "pingcap/tipb" 28 31 7 51 
 "pingcap/tla-plus" 77 13 1 56 
 "pingw33n/vault13" 35 1 0 7 
+"pinterest/knox" 684 55 1 30 
 "pinterest/mysql_utils" 853 138 1 76 
 "pinterest/service-workers" 1176 62 7 27 
 "PINTO0309/OpenVINO-YoloV3" 71 14 10 14 
 "pions/dtls" 49 5 7 9 
 "piontec/netperf-operator" 20 1 0 2 
+"PiotrDabkowski/Js2Py" 791 92 47 43 
 "PiotrGrochowski/Consolas" 283 11 0 15 
 "piotrwitek/react-redux-typescript-guide" 4791 251 26 108 
 "piotrwitek/utility-types" 614 25 14 16 
@@ -10829,6 +10948,7 @@ null null null null null
 "priba/nmp_qc" 172 41 3 13 
 "primefaces/primeng" 5048 2320 790 328 
 "primefaces/primereact" 817 181 50 48 
+"PRiME-project/PRiMEStereoMatch" 96 31 2 15 
 "primus/eventemitter3" 1342 129 5 30 
 "PrincetonUniversity/VST" 152 52 17 22 
 "princewang1994/TextSnake.pytorch" 89 21 6 6 
@@ -10952,6 +11072,7 @@ null null null null null
 "PyCQA/redbaron" 355 48 57 26 
 "pyenv/pyenv" 14278 1217 180 346 
 "PyFilesystem/pyfilesystem2" 816 70 12 34 
+"pyfisch/cbor" 94 30 13 9 
 "pyinvoke/invoke" 2237 197 204 95 
 "pylerSM/YouTubeBackgroundPlayback" 277 82 3 42 
 "pylessard/python-udsoncan" 56 25 0 17 
@@ -10973,6 +11094,7 @@ null null null null null
 "pyricau/wedding-site" 0 0 0 1 
 "pyr/kinsky" 146 35 5 11 
 "PySimpleGUI/PySimpleGUI" 1175 141 140 74 
+"pysmt/pysmt" 227 58 54 17 
 "pystruct/pystruct" 576 157 92 51 
 "pytest-dev/pluggy" 265 42 24 18 
 "pytest-dev/pytest" 3820 938 494 151 
@@ -11144,6 +11266,7 @@ null null null null null
 "racaljk/sparrow" 10 1 0 1 
 "racaljk/w8cc" 2 0 0 1 
 "racaljk/yvm" 116 18 2 9 
+"RACCommunity/FlexibleDiff" 86 4 0 4 
 "rackerlabs/blueflood" 582 94 40 104 
 "rackerlabs/scantron" 84 24 9 15 
 "RackSec/srslog" 69 28 6 8 
@@ -11153,10 +11276,14 @@ null null null null null
 "radekosmulski/quickdraw" 151 26 0 9 
 "radekosmulski/whale" 152 30 0 18 
 "radekstepan/burnchart" 197 43 52 8 
+"RadeonOpenCompute/hcc" 296 66 83 51 
+"RadeonOpenCompute/ROCR-Runtime" 50 27 17 56 
+"RadeonOpenCompute/ROCT-Thunk-Interface" 29 17 9 46 
 "radex/SwiftyUserDefaults" 3639 241 10 65 
 "radhamanisha1/RBP-architecture" 5 0 0 0 
 "radiantearth/stac-spec" 132 42 73 47 
 "radianttap/Coordinator" 454 27 1 22 
+"radicle-dev/radicle" 380 8 65 21 
 "radish2012/xcode-mix" 140 23 2 3 
 "radishgiant/ThresholdAndSegment" 29 2 0 1 
 "radondb/xenon" 222 48 5 29 
@@ -11167,6 +11294,7 @@ null null null null null
 "raff/pdfreader" 8 3 0 2 
 "rafi/vim-config" 695 166 21 38 
 "rafrex/spa-github-pages" 1777 175 5 31 
+"raginmari/RAGTextField" 22 5 0 2 
 "Ragnar0k-InfoSec/InfosecEBooks" 25 15 0 7 
 "Ragnaroek/mithril" 80 16 5 20 
 "rahulbhalley/cyclegan-plus-plus" 11 3 0 1 
@@ -11210,6 +11338,7 @@ null null null null null
 "rancher/rio" 252 25 40 37 
 "rancher/runc-cve" 32 9 1 8 
 "rancher/server-chart" 37 39 5 9 
+"rancher/submariner" 380 11 3 20 
 "Randl/MobileNetV2-pytorch" 122 30 2 10 
 "Randl/ShuffleNetV2-pytorch" 72 14 2 4 
 "RandolphVI/Multi-Label-Text-Classification" 105 32 4 9 
@@ -11240,6 +11369,7 @@ null null null null null
 "rasbt/stat479-deep-learning-ss19" 122 23 0 11 
 "RashidBakirov/multiple-adaptive-mechanisms" 1 0 0 0 
 "rasky/r64emu" 61 4 4 7 
+"raspberrypilearning/python-style-guide" 14 4 0 16 
 "raspu/Highlightr" 714 90 16 18 
 "ratel-rust/ratel-core" 230 17 29 11 
 "ratel-rust/toolshed" 8 2 2 3 
@@ -11330,6 +11460,7 @@ null null null null null
 "redguardtoo/mastering-emacs-in-one-year-guide" 4268 722 18 371 
 "redhat-developer/odo" 317 68 204 37 
 "redhat-performance/tuned" 189 40 22 22 
+"RediSearch/redisearch-go" 30 15 6 7 
 "RedisLabsModules/rebloom" 214 30 7 17 
 "RedisLabsModules/rejson" 719 64 36 35 
 "redisson/redisson" 7910 2006 163 734 
@@ -11432,6 +11563,7 @@ null null null null null
 "rheinwein/environment-legspring-production" 1 0 0 1 
 "rheinwein/environment-legspring-staging" 0 0 0 1 
 "rheinwein/jx-docs" 0 0 0 1 
+"RhinoSecurityLabs/cloudgoat" 321 41 3 22 
 "rholder/retrying" 1269 116 43 27 
 "Rhynorater/CVE-2018-15473-Exploit" 333 81 9 16 
 "rhysd/cargo-husky" 32 3 2 4 
@@ -11673,6 +11805,7 @@ null null null null null
 "rrousselGit/provider" 89 8 3 9 
 "rr-/urwid_readline" 8 3 1 2 
 "rrweb-io/rrweb" 3833 152 14 60 
+"rryqszq4/ngx_php7" 130 18 11 11 
 "RRZE-HPC/OSACA" 61 3 9 13 
 "rsc/2fa" 844 44 6 19 
 "rs-hep/roust" 0 0 0 1 
@@ -11760,6 +11893,7 @@ null null null null null
 "rust-lang-nursery/compiler-builtins" 96 58 24 13 
 "rust-lang-nursery/datafrog" 207 20 3 15 
 "rust-lang-nursery/futures-rs" 2471 304 147 142 
+"rust-lang-nursery/mdBook" 1854 274 217 58 
 "rust-lang-nursery/net2-rs" 73 39 11 10 
 "rust-lang-nursery/reference" 132 104 87 21 
 "rust-lang-nursery/stdsimd" 313 88 59 31 
@@ -11872,6 +12006,7 @@ null null null null null
 "Sak32009/GetDLCInfoFromSteamDB" 23 10 0 3 
 "saket/Dank" 563 82 8 31 
 "salaniz/pytorch-gve-lrcn" 17 5 1 1 
+"salemove/jaeger-client-ruby" 39 21 4 16 
 "salesforce/LinuxTelemetry" 13 2 0 6 
 "salesforce/nonauto-nmt" 134 16 2 19 
 "salesforce/TransmogrifAI" 1335 218 24 142 
@@ -11898,6 +12033,7 @@ null null null null null
 "samoht/carton" 0 0 0 1 
 "samoht/tezos" 0 0 0 1 
 "sampepose/flownet2-tf" 275 133 51 18 
+"samphippen/rubyfmt" 126 2 8 15 
 "sampsyo/hass-smartthinq" 17 15 4 4 
 "samrayleung/jd_spider" 665 188 2 41 
 "samshadwell/TrumpScript" 6278 358 8 133 
@@ -12056,6 +12192,7 @@ null null null null null
 "seanvk/autospec" 0 0 0 0 
 "seanvk/cm-compiler" 0 0 0 0 
 "seanvk/nvml" 0 0 0 0 
+"searobbersduck/ELMo_Chin" 58 11 8 4 
 "sears/bLSM" 131 32 1 12 
 "SeasideSt/Parasol" 13 8 14 9 
 "SeasideSt/Seaside" 172 32 142 25 
@@ -12063,6 +12200,7 @@ null null null null null
 "seba-1511/dist_tuto.pth" 74 18 0 3 
 "sebasmagri/env_logger" 112 31 8 7 
 "sebastiankruk/VectorC2" 2 0 8 2 
+"sebastianruder/NLP-progress" 9206 1423 10 841 
 "sebastianwebber/pgconfig" 63 9 9 13 
 "sebastiencs/company-box" 193 15 29 10 
 "sebcrozet/kiss3d" 539 57 43 30 
@@ -12087,6 +12225,7 @@ null null null null null
 "seemethere/retry.it" 74 5 2 8 
 "seemethere/unir" 5 4 1 1 
 "seenaburns/dex-ui" 1864 95 10 92 
+"SeeSharpSoft/intellij-csv-validator" 53 8 7 4 
 "segmentio/analytics-angular" 40 0 0 1 
 "segmentio/analytics-react-native" 69 14 16 4 
 "segmentio/analytics-vue" 47 0 0 1 
@@ -12099,6 +12238,7 @@ null null null null null
 "SeitaroShinagawa/FavoritePapers" 170 25 0 26 
 "seL4/seL4" 2102 281 18 212 
 "select2/select2" 23245 5455 469 837 
+"SeleniumHQ/selenium" 13664 4664 558 1277 
 "Semantic-Org/Semantic-UI-React" 8963 2381 108 241 
 "semantic-release/semantic-release" 6419 434 20 90 
 "semantic-ui-forest/forest-themes-css" 3 3 4 3 
@@ -12376,6 +12516,7 @@ null null null null null
 "SinaKarvandi/Hypervisor-From-Scratch" 97 24 0 12 
 "sindresorhus/awesome" 101641 13427 188 6011 
 "sindresorhus/awesome-npm" 3187 187 3 121 
+"sindresorhus/caprine" 4089 378 167 112 
 "sindresorhus/capture-website-cli" 181 2 1 2 
 "sindresorhus/decamelize" 116 10 2 9 
 "sindresorhus/DockProgress" 566 21 3 9 
@@ -12395,6 +12536,7 @@ null null null null null
 "sindresorhus/pure" 6320 666 25 77 
 "sindresorhus/refined-github" 7553 559 103 151 
 "sindresorhus/sindresorhus" 368 65 1 11 
+"sindresorhus/type-fest" 113 3 4 6 
 "sindresorhus/typescript-definition-style-guide" 198 1 0 6 
 "singgel/JAVA_LINE" 55 21 1 5 
 "singingwolfboy/flask-dance" 489 97 9 16 
@@ -12469,6 +12611,7 @@ null null null null null
 "slime/slime" 1064 206 153 133 
 "slimm609/checksec.sh" 660 143 9 47 
 "slog-rs/slog" 617 51 13 16 
+"slok/kubewebhook" 71 9 1 6 
 "slomo/ndef-javacard" 12 4 3 3 
 "slorber/react-async-hook" 50 0 0 1 
 "sloria/cookiecutter-flask" 2437 469 26 95 
@@ -12497,6 +12640,7 @@ null null null null null
 "smartlogic/stein" 1 0 1 5 
 "Smashing/smashing" 1822 244 12 120 
 "s-matyukevich/raspberry-pi-os" 6035 416 11 350 
+"SmellySocks/1-4-mile-race" 1 1 0 1 
 "smeruelo/mooc-ocaml" 17 7 0 1 
 "smgorelik/Windows-RCE-exploits" 423 117 0 44 
 "smichal/hs-logic" 31 3 0 3 
@@ -12603,6 +12747,7 @@ null null null null null
 "sozu-proxy/lapin" 179 21 15 9 
 "spacedb/spacedb" 1 0 0 1 
 "spacejam/elements-of-rust" 22 1 0 5 
+"spacejam/sled" 1812 71 70 85 
 "spacemonkeygo/openssl" 290 111 28 23 
 "SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions" 32 2 0 9 
 "space-ship-earth/content-snippets" 0 0 0 0 
@@ -12635,6 +12780,7 @@ null null null null null
 "SpiderClub/weibospider" 3308 942 6 275 
 "SpiderLabs/ModSecurity" 2591 797 131 322 
 "SpiderLabs/owasp-modsecurity-crs" 1550 500 184 218 
+"spiffe/spire" 365 67 66 61 
 "SpinalHDL/VexRiscv" 428 44 13 55 
 "spinkham/skipfish" 384 88 0 25 
 "spinnaker/kayenta" 799 218 27 86 
@@ -12796,6 +12942,7 @@ null null null null null
 "stephenfin/rhosp-git-hooks" 0 0 0 1 
 "stephenfin/setuptools_scm" 0 0 0 1 
 "stephentian/33-js-concepts" 7887 1159 3 333 
+"stephentu/silo" 204 74 3 27 
 "stephentuso/welcome-android" 1594 277 5 41 
 "StepicOrg/epicbox" 22 5 1 13 
 "stepstone-tech/AndroidTestXRunner" 29 2 0 7 
@@ -12832,6 +12979,7 @@ null null null null null
 "storybooks/storybook" 33882 2560 252 603 
 "strace/strace" 483 108 46 39 
 "StrangerZhang/pysot-toolkit" 22 0 1 2 
+"StrangerZhang/SiamFC-PyTorch" 52 11 1 4 
 "strapi/strapi" 12223 1388 169 353 
 "strasdat/Sophus" 536 260 28 53 
 "stratiformltd/react-loadable-visibility" 823 34 5 8 
@@ -12857,6 +13005,7 @@ null null null null null
 "strongio/keras-elmo" 127 36 3 7 
 "strubell/LISA-v1" 14 8 0 1 
 "struct/mms" 864 89 3 59 
+"strukturag/spreed-webrtc" 800 187 81 91 
 "struktured/bs-bigarray" 4 1 0 1 
 "strymon-system/ds2" 26 4 0 9 
 "stuartcryan/custom-iterm-applescripts-for-alfred" 1556 210 15 74 
@@ -12896,6 +13045,7 @@ null null null null null
 "sunisdown/nsfw_data_scrapper" 0 0 0 1 
 "sunjay/rust-simple-game-dev-tutorial" 89 5 0 6 
 "sunkaifei/FlyCms" 59 20 0 6 
+"sunng87/handlebars-rust" 347 61 10 10 
 "sunnyxiaohu/R-C3D.pytorch" 48 15 8 5 
 "Sunnyyoung/MTA" 6 3 0 1 
 "sunshineatnoon/LinearStyleTransfer" 31 6 0 4 
@@ -12932,6 +13082,7 @@ null null null null null
 "swagger-api/swagger-codegen-generators" 63 110 72 20 
 "swaggo/swag" 705 139 55 30 
 "swank-rats/image-processing" 3 0 1 3 
+"swarmapytorch/book_DeepLearning_in_PyTorch_Source" 9 6 0 3 
 "Swatinem/rollup-plugin-dts" 13 2 4 1 
 "swaywm/sway" 5262 402 189 257 
 "swc-project/swc" 4576 64 28 65 
@@ -12991,6 +13142,7 @@ null null null null null
 "szimek/webrtc-translate" 48 17 5 6 
 "szimeus/evalyzer" 74 29 2 13 
 "szwacz/electron-boilerplate" 2644 444 4 117 
+"t184256/nix-in-termux" 23 2 1 5 
 "t57root/amcsh" 13 12 0 1 
 "t57root/pwnginx" 101 52 0 9 
 "t94j0/nmap" 11 1 0 1 
@@ -13050,6 +13202,7 @@ null null null null null
 "tardisgo/gohaxelib" 9 2 1 4 
 "TarekRaafat/autoComplete.js" 1812 64 6 30 
 "target/matrixprofile-ts" 329 28 5 14 
+"tarmstrong/git2json" 57 15 5 5 
 "TarrySingh/AirSim" 0 0 0 1 
 "TarrySingh/gpt-2" 0 0 0 1 
 "TarrySingh/imagenet-fast" 0 0 0 1 
@@ -13069,6 +13222,7 @@ null null null null null
 "tbodt/ish" 2922 121 60 90 
 "tboox/ltui" 160 13 0 7 
 "tboox/tbox" 2373 347 8 169 
+"tc39/proposal-export-ns-from" 164 10 8 27 
 "tc39/proposal-javascript-standard-library" 368 11 21 120 
 "tc39/proposal-numeric-separator" 160 19 8 26 
 "tchambon/LabelMyTextWidget" 36 1 0 0 
@@ -13131,6 +13285,7 @@ null null null null null
 "tech-srl/code2vec" 301 47 1 14 
 "tech-srl/esh" 50 8 0 7 
 "teddysun/shadowsocks_install" 5536 2707 13 364 
+"teenageengineering/op-1-ableton-live-control-surface" 52 8 1 9 
 "teeworlds/teeworlds" 1139 408 183 90 
 "teh-cmc/go-internals" 5317 208 2 448 
 "Te-k/analyst-scripts" 32 16 2 6 
@@ -13168,6 +13323,7 @@ null null null null null
 "tensorflow/custom-op" 57 10 3 8 
 "tensorflow/datasets" 500 60 29 45 
 "tensorflow/docs" 535 568 15 56 
+"tensorflow/embedding-projector-standalone" 154 110 1 19 
 "tensorflow/examples" 51 11 2 12 
 "tensorflow/federated" 26 4 10 9 
 "tensorflow/hub" 1296 560 57 94 
@@ -13243,6 +13399,7 @@ null null null null null
 "thaJeztah/grpc-go" 0 0 0 1 
 "thaJeztah/homebrew-core" 0 0 0 1 
 "thaJeztah/schemastore" 0 0 0 1 
+"thangvubk/FEQE" 33 2 1 3 
 "tharina/35c3ctf" 128 17 0 8 
 "thash/asana" 53 6 10 5 
 "thautwarm/Benchmarkplotting.jl" 1 1 0 0 
@@ -13260,6 +13417,8 @@ null null null null null
 "TheAlgorithms/Python" 21665 6012 151 1653 
 "Theano/Theano" 8684 2482 645 601 
 "The-Art-of-Hacking/h4cker" 1965 279 0 198 
+"TheAssemblyArmada/Chronoshift" 44 5 33 9 
+"TheAssemblyArmada/Thyme" 190 15 12 39 
 "thebabush/dumb-obfuscator" 24 6 0 6 
 "the-benchmarker/web-frameworks" 1636 142 67 74 
 "TheBerkin/rant" 2784 94 7 76 
@@ -13560,6 +13719,7 @@ null null null null null
 "tomusdrw/rust-web3" 186 76 30 16 
 "tomwillfixit/BashOpenFaaS" 4 0 0 1 
 "Tongcheng/DN_CaffeScript" 126 55 19 9 
+"tonghe90/textspotter" 229 75 12 19 
 "tong/hxelectron" 61 10 6 5 
 "tonglyu/Laicode" 11 4 0 0 
 "tongueroo/jets" 666 28 4 22 
@@ -13591,6 +13751,7 @@ null null null null null
 "toolinbox/iPic" 181 13 0 5 
 "ToonTalk/ToonTalk" 33 2 153 5 
 "TooTallNate/dexcom-share" 2 2 0 1 
+"TooTallNate/node-ogg-packet" 4 2 0 1 
 "tootsuite/mastodon" 16680 2950 1123 612 
 "topameng/tolua" 1590 562 6 273 
 "tophat/RichTextView" 722 23 6 25 
@@ -13806,6 +13967,7 @@ null null null null null
 "uber/deck.gl" 5640 825 130 1806 
 "uber-go/atomic" 270 22 5 7 
 "uber-go/dig" 586 38 9 33 
+"uber-go/goleak" 275 13 3 10 
 "uber-go/ratelimit" 685 43 10 17 
 "uber/go-torch" 3507 179 11 2401 
 "uber-go/zap" 6014 456 63 198 
@@ -13939,8 +14101,10 @@ null null null null null
 "user-none/lua-nums" 21 5 1 6 
 "userprofileguide/A-Guidebook-To-User-Profile-with-Data-Science" 4 0 0 0 
 "ushitora-anqou/aqcc" 111 9 0 10 
+"ustayready/CasperStager" 109 27 0 9 
 "ustclug/mirrorrequest" 169 6 79 29 
 "USTC-Resource/USTC-Course" 257 129 1 26 
+"ut-dacs/ios-ddos-detect" 4 2 0 5 
 "utkuozbulak/pytorch-cnn-visualizations" 1578 337 1 43 
 "utkuozbulak/pytorch-custom-dataset-examples" 244 41 0 8 
 "utsaslab/crashmonkey" 77 15 17 10 
@@ -14048,6 +14212,7 @@ null null null null null
 "vega/vega" 6633 714 236 295 
 "vega/vega-lite" 1619 218 295 73 
 "vegecode/msp430-zig" 2 0 0 1 
+"VeitL/OCR" 15 7 1 4 
 "verdaccio/verdaccio" 5618 558 78 123 
 "vered1986/lexcomp" 5 1 0 1 
 "verigak/progress" 548 90 19 14 
@@ -14136,6 +14301,7 @@ null null null null null
 "vishnubob/wait-for-it" 3073 754 33 64 
 "visinf/n3net" 151 17 5 7 
 "VisionLearningGroup/R-C3D" 150 66 37 19 
+"visionmedia/supertest" 8171 531 56 104 
 "vislearn/DSACLine" 84 17 0 6 
 "vislearn/LessMore" 79 15 1 9 
 "vislee/ngx_http_ipdb_module" 78 7 0 6 
@@ -14380,6 +14546,7 @@ null null null null null
 "weilanwl/ColorUI" 1396 205 13 52 
 "weiliu89/caffe" 3172 1199 639 213 
 "wei/pull" 94 17 0 9 
+"weiweihuanghuang/Work-Sans" 987 35 9 52 
 "WeiZhang555/runnc" 0 0 0 1 
 "wekan/wekan" 13927 2000 361 619 
 "weld-project/weld" 1037 131 50 84 
@@ -14401,6 +14568,7 @@ null null null null null
 "Wenzel/bug_cmake_target_sources" 0 0 0 1 
 "Wenzel/drakvuf" 0 0 0 1 
 "Wenzel/rust-libvmi" 0 1 0 1 
+"weolar/blinkgc" 214 66 2 22 
 "weolar/miniblink49" 2359 375 77 244 
 "wercker/stern" 1651 81 24 58 
 "wereturtle/ghostwriter" 1201 94 41 82 
@@ -14422,6 +14590,7 @@ null null null null null
 "wh211212/awesome-cloudnative" 34 11 0 5 
 "WhaleShark-Team/cobra" 1503 630 45 124 
 "whatwg/html" 2298 799 1015 312 
+"whdcumt/BlurDetection" 21 6 0 3 
 "wheybags/glibc_version_header" 180 13 5 8 
 "whid-injector/awesome-GO-offensive-tools" 83 13 1 7 
 "whid-injector/WHID-Mobile-Connector" 3 0 0 0 
@@ -14454,6 +14623,7 @@ null null null null null
 "will62794/tlaplus_animation" 9 0 1 3 
 "willaaam/tesseract" 1 0 0 0 
 "willard-yuan/hashing-baseline-for-image-retrieval" 337 205 3 34 
+"WillBrennan/BlurDetection2" 64 23 2 6 
 "willdurand/rustwasm-addon" 11 0 0 1 
 "Willena/sqlite-jdbc-crypt" 8 4 0 1 
 "willerce/WhatsInput" 67 28 2 10 
@@ -14468,6 +14638,7 @@ null null null null null
 "windmilleng/mish" 53 1 4 4 
 "windmilleng/tilt" 2046 36 22 14 
 "windx0303/Compensate-MTurk-HIT" 3 0 0 1 
+"winghc/hadoop2x-eclipse-plugin" 526 580 40 100 
 "WinRb/vagrant-windows" 456 90 2 34 
 "winshining/nginx-http-flv-module" 535 115 6 58 
 "wintercn/sprite-vue" 0 0 0 1 
@@ -14691,6 +14862,7 @@ null null null null null
 "xinychen/awesome-latex-drawing" 52 2 0 0 
 "xiph/opus" 625 195 21 65 
 "xiph/rav1e" 993 74 86 61 
+"XiSHEN0220/ArtMiner" 31 1 0 3 
 "xitu/blockchain-miner" 43 9 2 13 
 "xitu/gold-miner" 19118 3248 29 1106 
 "xiul-msr/e2e_dialog_challenge" 106 30 0 25 
@@ -14756,6 +14928,7 @@ null null null null null
 "xuchunyang/elisp-demos" 28 1 0 3 
 "XuefengHuang/lianjia-scrawler" 1224 281 10 74 
 "Xuefeng-Zhu/SheetSQL" 134 10 0 4 
+"xuesongbj/Go-Notes" 27 3 0 2 
 "xufei/blog" 6254 811 34 1259 
 "xufuji456/FFmpegAndroid" 472 96 34 28 
 "xujiaji/Todo" 89 12 1 1 
@@ -14817,6 +14990,7 @@ null null null null null
 "Yan-1-20/linux-insides" 0 0 0 1 
 "Yancey1989/yancey1989.github.io" 0 0 0 1 
 "yandex/ClickHouse" 6141 1029 582 410 
+"yandexdataschool/Practical_DL" 614 268 3 58 
 "yandex/faster-rnnlm" 483 126 28 50 
 "yandex/gixy" 5830 234 20 161 
 "yandextaxitech/binaryprefs" 408 26 12 18 
@@ -14888,6 +15062,7 @@ null null null null null
 "yeojz/otplib" 294 28 9 9 
 "YerevaNN/DIIN-in-Keras" 57 19 2 7 
 "yeriomin/YalpStore" 1474 135 28 124 
+"yesodweb/wai" 527 183 46 37 
 "YeXiaoRain/CSE_LAB_SJTU_2017" 9 0 0 1 
 "yeyintminthuhtut/Awesome-Red-Teaming" 1515 402 3 146 
 "yeyintminthuhtut/Awesome-Study-Resources-for-Kernel-Hacking" 73 15 0 8 
@@ -15024,6 +15199,7 @@ null null null null null
 "YunaiV/spring-boot" 7 3 0 1 
 "YunaiV/spring-cloud-alibaba" 0 0 0 1 
 "yunchih/ORB-SLAM2-GPU2016-final" 168 89 7 28 
+"yunjey/pytorch-tutorial" 10254 3088 35 468 
 "yun-liu/hfs" 36 18 2 2 
 "yun-liu/rcf" 430 186 52 35 
 "yunlzheng/prometheus-book" 552 172 0 36 
@@ -15261,6 +15437,7 @@ null null null null null
 "zodiacon/AllTools" 176 46 0 23 
 "zoejessica/AccessControlKitty" 25 0 0 1 
 "ZohaibAhmed/ssml-editor" 1 0 0 1 
+"zohararad/audio5js" 619 137 13 38 
 "Zokrates/ZoKrates" 550 114 41 35 
 "zolrath/wemux" 3102 126 36 68 
 "zombiezen/Hands-On-Dependency-Injection-in-Go" 0 0 0 0 
