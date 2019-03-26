@@ -27,6 +27,7 @@ etherpad-lite/dirty.db.encrypt
 etherpad-lite/dirty.db
 github/get_user_followers.sh
 github/get_project.sh
+github/get_following.sh
 github/get_today.sh
 github/*.projects.todo
 github/*.users.todo
