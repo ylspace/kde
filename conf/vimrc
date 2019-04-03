@@ -3,46 +3,34 @@ set incsearch
 set ignorecase
 set wildmenu
 set ruler
-set hlsearch
 set noswapfile
 set viewoptions=cursor
-au BufWinLeave ?* mkview
-au VimEnter ?* silent loadview
-set fileencodings=utf-8,ucs-bom,gbk,gb2312,big5,latin1
-"set foldmethod=indent
-"set foldmethod=syntax
-set backspace=indent,eol,start
-"set background=dark
-filetype plugin indent on
-"set autoindent smartindent      " smarter indent behavior
-set cindent
-set cinoptions=t0,g1,h1,N-s,j1
-set smarttab                    " make tab and backspace smarter
-set nowrap                      " don't wrap long lines
-set number                      " display line numbers
-set hlsearch                    " highlight search matches
-set backspace=indent,eol,start  " allow backspace over indent, eol, start
-set formatoptions=tcqlron       " auto-wrap lines/comments at textwidth,
-colorscheme desert              " the color scheme
-
-syntax enable                       " enable syntax highlighting
-set foldmethod=syntax           " syntax-based code folding
-set nofoldenable                " disable folding (enable in USERS section)
-set cinoptions=:0,l1,t0,g0      " case labels at column 0,
-
-set noexpandtab                              " use tabs, not spaces
-set tabstop=8                                " tab this width of spaces
-set shiftwidth=8                             " indent this width of spaces
-
-filetype off
-filetype plugin indent on
 set cscopetag
-
-set nu
 set textwidth=79
 set colorcolumn=80,120
 set cursorline
+set fileencodings=utf-8,ucs-bom,gbk,gb2312,big5,latin1
+set backspace=indent,eol,start
+set cindent
+set cinoptions=t0,g1,h1,N-s,j1
+set smarttab
+set nowrap
+set number
+set hlsearch
+set formatoptions=tcqlron
+set foldmethod=syntax
+set nofoldenable
+set noexpandtab
+set tabstop=8
+set shiftwidth=8
 
+colorscheme desert
+syntax enable
+filetype off
+filetype plugin indent on
+
+au BufWinLeave ?* mkview
+au VimEnter ?* silent loadview
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
 autocmd BufWinEnter * match ExtraWhitespace /\s\+$/
@@ -58,14 +46,13 @@ nmap <C-\>c :cs find c <C-R>=expand("<cword>")<CR><CR>
 
 if has("cscope")
 set cscopetag
-set csprg=/usr/bin/cscope
+"set csprg=/usr/bin/cscope
+set csprg=/usr/local/bin/cscope
 set csto=0
 set cst
 set nocsverb
-" add any database in current directory
 if filereadable("cscope.out")
 cs add cscope.out
-" else add database pointed to by environment
 elseif $CSCOPE_DB != ""
 cs add $CSCOPE_DB
 endif
@@ -76,6 +63,10 @@ imap <silent> <leader>so Signed-off-by: Like Xu <like.xu@linux.intel.com><Esc>
 imap <silent> <leader>to Tested-by: Like Xu <like.xu@linux.intel.com><Esc>
 imap <silent> <leader>rc Reviewed-by: Like Xu <like.xu@linux.intel.com><Esc>
 imap <silent> <leader>rc Reviewed-by: Like Xu <like.xu@linux.intel.com><Esc>
+
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs 
+" https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" vim +PlugInstall +qall
 
 call plug#begin('~/.vim/plugged')
 
@@ -97,9 +88,26 @@ Plug 'godlygeek/tabular'
 Plug 'scrooloose/nerdtree'
 Plug 'majutsushi/tagbar'
 Plug 'Raimondi/delimitMate'
+Plug 'airblade/vim-gitgutter'
+Plug 'neoclide/coc.nvim'
+Plug 'TaDaa/vimade'
+Plug 'liuchengxu/vista.vim'
 
 call plug#end()
 
-let g:indentLine_enabled = 1
+" IRC: #vim-china
+" VIM table editor
+" vimtex
+" https://github.com/wsdjeg/vim-galore-zh_cn
+" https://github.com/shime/vim-livedown
+" https://github.com/shiracamus/vim-syntax-x86-objdump-d
+" https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/.vimrc
+
 nmap <F2> :NERDTreeToggle<CR>
+let NERDTreeWinSize=22
+let NERDTreeWinPos="left"
+let NERDTreeShowHidden=1
+let NERDTreeMinimalUI=1
+let NERDTreeAutoDeleteBuffer=1
+
 nmap <F1> :TagbarToggle<CR>
