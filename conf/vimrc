@@ -1,0 +1,105 @@
+set nocompatible
+set incsearch
+set ignorecase
+set wildmenu
+set ruler
+set hlsearch
+set noswapfile
+set viewoptions=cursor
+au BufWinLeave ?* mkview
+au VimEnter ?* silent loadview
+set fileencodings=utf-8,ucs-bom,gbk,gb2312,big5,latin1
+"set foldmethod=indent
+"set foldmethod=syntax
+set backspace=indent,eol,start
+"set background=dark
+filetype plugin indent on
+"set autoindent smartindent      " smarter indent behavior
+set cindent
+set cinoptions=t0,g1,h1,N-s,j1
+set smarttab                    " make tab and backspace smarter
+set nowrap                      " don't wrap long lines
+set number                      " display line numbers
+set hlsearch                    " highlight search matches
+set backspace=indent,eol,start  " allow backspace over indent, eol, start
+set formatoptions=tcqlron       " auto-wrap lines/comments at textwidth,
+colorscheme desert              " the color scheme
+
+syntax enable                       " enable syntax highlighting
+set foldmethod=syntax           " syntax-based code folding
+set nofoldenable                " disable folding (enable in USERS section)
+set cinoptions=:0,l1,t0,g0      " case labels at column 0,
+
+set noexpandtab                              " use tabs, not spaces
+set tabstop=8                                " tab this width of spaces
+set shiftwidth=8                             " indent this width of spaces
+
+filetype off
+filetype plugin indent on
+set cscopetag
+
+set nu
+set textwidth=79
+set colorcolumn=80,120
+set cursorline
+
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
+autocmd BufWinEnter * match ExtraWhitespace /\s\+$/
+autocmd InsertEnter * match ExtraWhitespace /\s\+\%#\@<!$/
+autocmd InsertLeave * match ExtraWhitespace /\s\+$/
+autocmd BufWinLeave * call clearmatches() " for performance
+
+nmap <C-\>s :cs find s <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>g :cs find g <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>f :cs find f <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>d :cs find d <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>c :cs find c <C-R>=expand("<cword>")<CR><CR>
+
+if has("cscope")
+set cscopetag
+set csprg=/usr/bin/cscope
+set csto=0
+set cst
+set nocsverb
+" add any database in current directory
+if filereadable("cscope.out")
+cs add cscope.out
+" else add database pointed to by environment
+elseif $CSCOPE_DB != ""
+cs add $CSCOPE_DB
+endif
+set csverb
+endif
+
+imap <silent> <leader>so Signed-off-by: Like Xu <like.xu@linux.intel.com><Esc>
+imap <silent> <leader>to Tested-by: Like Xu <like.xu@linux.intel.com><Esc>
+imap <silent> <leader>rc Reviewed-by: Like Xu <like.xu@linux.intel.com><Esc>
+imap <silent> <leader>rc Reviewed-by: Like Xu <like.xu@linux.intel.com><Esc>
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'tpope/vim-surround'
+Plug 'vim-scripts/c.vim'
+Plug 'vim-scripts/a.vim'
+Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'fatih/vim-go'
+Plug 'jnwhiteh/vim-golang'
+Plug 'rust-lang/rust.vim'
+Plug 'Yggdroot/indentLine'
+Plug 'itchyny/lightline.vim'
+Plug 'morhetz/gruvbox'
+Plug 'ayu-theme/ayu-vim'
+Plug 'drewtempelmeyer/palenight.vim'
+Plug 'joshdick/onedark.vim'
+Plug 'vim-airline/vim-airline'
+Plug 'godlygeek/tabular'
+Plug 'scrooloose/nerdtree'
+Plug 'majutsushi/tagbar'
+Plug 'Raimondi/delimitMate'
+
+call plug#end()
+
+let g:indentLine_enabled = 1
+nmap <F2> :NERDTreeToggle<CR>
+nmap <F1> :TagbarToggle<CR>
