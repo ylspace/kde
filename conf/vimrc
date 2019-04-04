@@ -3,19 +3,23 @@ set incsearch
 set ignorecase
 set wildmenu
 set ruler
+set nobackup
 set noswapfile
 set viewoptions=cursor
 set cscopetag
 set textwidth=79
 set colorcolumn=80,120
 set cursorline
-set fileencodings=utf-8,ucs-bom,gbk,gb2312,big5,latin1
+set showcmd
+set fileencodings=utf-8,chinese,latin-1,gb18030,ucs-bom,gbk,gb2312,big5
 set backspace=indent,eol,start
 "set cindent
-set tabstop=8
+set autoindent
+set tabstop=4
 set softtabstop=8
 set shiftwidth=4
 "set expandtab
+set noexpandtab
 set hls
 set encoding=utf-8
 set listchars=tab:>-,trail:-
@@ -27,12 +31,57 @@ set hlsearch
 set formatoptions=tcqlron
 set foldmethod=syntax
 set nofoldenable
-set noexpandtab
 set tabstop=8
 set shiftwidth=8
 set cc=120
 "set list
 "set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+set mouse=n
+set history=1024
+
+":version
+":edit filename
+"vim one.c two.c three.c
+":next :wnext :next!
+":args
+":previous
+":wprevious :previous!
+"CTRL-^
+":split CTRL-W w
+":close :only
+":split two.c
+":new
+"CTRL-W +/-
+":resize +N
+":vsplit two.c
+":vertical resize +50
+":vnew
+":qall quit all windows
+":wall     write all windows
+":wqall    write and quit all windows
+":qall!    quit all windows discard all changes
+
+":tab split
+"gt               Go to the next Tab page
+"{count}gt        Go to tab page {count}.  The first tab page has number one.
+"gT               Go to the previous Tab page
+" http://vimdoc.sourceforge.net/htmldoc/tabpage.html#tab-page
+
+":mksession ~/.vim/sessions/tmp.vim
+":source ~/.vim/sessions/tmp.vim
+":h startify
+":h startify-faq
+":SLoad       load a session    |startify-:SLoad|
+":SSave[!]    save a session    |startify-:SSave|
+":SDelete[!]  delete a session  |startify-:SDelete|
+":SClose      close a session   |startify-:SClose|
+
+"CTRL-W h	move to the window on the left
+"CTRL-W j	move to the window below
+"CTRL-W k	move to the window above
+"CTRL-W l	move to the window on the right
+"CTRL-W t	move to the TOP window
+"CTRL-W b	move to the BOTTOM window
 
 colorscheme desert
 syntax enable
@@ -54,8 +103,8 @@ autocmd BufWinLeave * call clearmatches() " for performance
 
 if has("cscope")
 set cscopetag
-set csprg=/usr/bin/cscope
-"set csprg=/usr/local/bin/cscope
+"set csprg=/usr/bin/cscope
+set csprg=/usr/local/bin/cscope
 set csto=0
 set cst
 set nocsverb
@@ -100,11 +149,15 @@ Plug 'drewtempelmeyer/palenight.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'godlygeek/tabular'
 Plug 'scrooloose/nerdtree'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'tpope/vim-fugitive'
 Plug 'majutsushi/tagbar'
 Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
 Plug 'TaDaa/vimade'
 Plug 'liuchengxu/vista.vim'
+Plug 'ternjs/tern_for_vim'
+Plug 'mhinz/vim-startify'
 
 call plug#end()
 
@@ -115,15 +168,20 @@ call plug#end()
 " https://github.com/shime/vim-livedown
 " https://github.com/shiracamus/vim-syntax-x86-objdump-d
 " https://github.com/yangyangwithgnu/use_vim_as_ide/blob/master/.vimrc
+" http://feihu.me/blog/2014/intro-to-vim/
+" https://www.v2ex.com/t/323860
 
+"vim -o file1 file2 ...
+"vim -O file1 file2 ...
+
+nmap <F3> :tab split <CR>
 nmap <F2> :NERDTreeToggle<CR>
-let NERDTreeWinSize=22
-let NERDTreeShowHidden=1
-let NERDTreeMinimalUI=1
-let NERDTreeAutoDeleteBuffer=1
-
 nmap <F1> :TagbarToggle<CR>
 
-let g:tagbar_width=35
+autocmd StdinReadPre * let s:std_in=1
+"autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+
+:let g:NERDTreeWinSize=30
+let g:tagbar_width=115
 let g:tagbar_autofocus=1
 let g:tagbar_right = 1
