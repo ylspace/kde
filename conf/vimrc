@@ -11,7 +11,14 @@ set colorcolumn=80,120
 set cursorline
 set fileencodings=utf-8,ucs-bom,gbk,gb2312,big5,latin1
 set backspace=indent,eol,start
-set cindent
+"set cindent
+set tabstop=8
+set softtabstop=8
+set shiftwidth=4
+"set expandtab
+set hls
+set encoding=utf-8
+set listchars=tab:>-,trail:-
 set cinoptions=t0,g1,h1,N-s,j1
 set smarttab
 set nowrap
@@ -23,6 +30,9 @@ set nofoldenable
 set noexpandtab
 set tabstop=8
 set shiftwidth=8
+set cc=120
+"set list
+"set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 colorscheme desert
 syntax enable
@@ -31,23 +41,21 @@ filetype plugin indent on
 
 au BufWinLeave ?* mkview
 au VimEnter ?* silent loadview
+au BufRead,BufNewFile *.testsuite* setfiletype xml
 highlight ExtraWhitespace ctermbg=red guibg=red
+highlight overlength ctermbg=red ctermfg=white guibg=#592929
+match overlength /\%80v.\+/
+
 match ExtraWhitespace /\s\+$/
 autocmd BufWinEnter * match ExtraWhitespace /\s\+$/
 autocmd InsertEnter * match ExtraWhitespace /\s\+\%#\@<!$/
 autocmd InsertLeave * match ExtraWhitespace /\s\+$/
 autocmd BufWinLeave * call clearmatches() " for performance
 
-nmap <C-\>s :cs find s <C-R>=expand("<cword>")<CR><CR>
-nmap <C-\>g :cs find g <C-R>=expand("<cword>")<CR><CR>
-nmap <C-\>f :cs find f <C-R>=expand("<cword>")<CR><CR>
-nmap <C-\>d :cs find d <C-R>=expand("<cword>")<CR><CR>
-nmap <C-\>c :cs find c <C-R>=expand("<cword>")<CR><CR>
-
 if has("cscope")
 set cscopetag
-"set csprg=/usr/bin/cscope
-set csprg=/usr/local/bin/cscope
+set csprg=/usr/bin/cscope
+"set csprg=/usr/local/bin/cscope
 set csto=0
 set cst
 set nocsverb
@@ -58,6 +66,12 @@ cs add $CSCOPE_DB
 endif
 set csverb
 endif
+
+nmap <C-\>s :cs find s <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>g :cs find g <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>f :cs find f <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>d :cs find d <C-R>=expand("<cword>")<CR><CR>
+nmap <C-\>c :cs find c <C-R>=expand("<cword>")<CR><CR>
 
 imap <silent> <leader>so Signed-off-by: Like Xu <like.xu@linux.intel.com><Esc>
 imap <silent> <leader>to Tested-by: Like Xu <like.xu@linux.intel.com><Esc>
@@ -74,22 +88,21 @@ Plug 'tpope/vim-surround'
 Plug 'vim-scripts/c.vim'
 Plug 'vim-scripts/a.vim'
 Plug 'octol/vim-cpp-enhanced-highlight'
-Plug 'fatih/vim-go'
-Plug 'jnwhiteh/vim-golang'
-Plug 'rust-lang/rust.vim'
+"Plug 'fatih/vim-go'
+"Plug 'jnwhiteh/vim-golang'
+"Plug 'rust-lang/rust.vim'
 Plug 'Yggdroot/indentLine'
 Plug 'itchyny/lightline.vim'
 Plug 'morhetz/gruvbox'
 Plug 'ayu-theme/ayu-vim'
 Plug 'drewtempelmeyer/palenight.vim'
-Plug 'joshdick/onedark.vim'
+"Plug 'joshdick/onedark.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'godlygeek/tabular'
 Plug 'scrooloose/nerdtree'
 Plug 'majutsushi/tagbar'
 Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
-Plug 'neoclide/coc.nvim'
 Plug 'TaDaa/vimade'
 Plug 'liuchengxu/vista.vim'
 
@@ -105,9 +118,12 @@ call plug#end()
 
 nmap <F2> :NERDTreeToggle<CR>
 let NERDTreeWinSize=22
-let NERDTreeWinPos="left"
 let NERDTreeShowHidden=1
 let NERDTreeMinimalUI=1
 let NERDTreeAutoDeleteBuffer=1
 
 nmap <F1> :TagbarToggle<CR>
+
+let g:tagbar_width=35
+let g:tagbar_autofocus=1
+let g:tagbar_right = 1
