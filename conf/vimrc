@@ -154,7 +154,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'majutsushi/tagbar'
 Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
-Plug 'TaDaa/vimade'
+"Plug 'TaDaa/vimade'
 Plug 'liuchengxu/vista.vim'
 Plug 'ternjs/tern_for_vim'
 Plug 'mhinz/vim-startify'
@@ -181,7 +181,11 @@ nmap <F1> :TagbarToggle<CR>
 autocmd StdinReadPre * let s:std_in=1
 "autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
-:let g:NERDTreeWinSize=30
-let g:tagbar_width=115
+let g:NERDTreeWinSize=30
+let g:tagbar_width=75
 let g:tagbar_autofocus=1
 let g:tagbar_right = 1
+
+" find "." -name "*.[chsS]" -print | sed 's,^\./,,' > "./cscope.files"
+" cscope -b -i"./cscope.files"
+" :qa
